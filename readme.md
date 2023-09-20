@@ -1,7 +1,6 @@
 # v2board-docker
 🐳fast running v2board
-* Project
-https://github.com/hashcott/v2board-docker.git
+
 
 ### Install `Docker` and `Docker-Compose`
 ```
